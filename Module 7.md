@@ -6,7 +6,7 @@ To write a C program for array of structure to check eligibility for the vaccine
 Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
-3.	Input age and name using scanf, store in e
+3.	Input age and name using scanf, store in e  
 4.	If e.age <= 6
 -	Print "Vaccine Eligibility: No"
 Else
