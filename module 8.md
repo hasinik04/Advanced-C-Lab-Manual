@@ -10,7 +10,7 @@ To write a C program print the lowercase English word corresponding to the numbe
 3.	Switch Statement cases.
 -	Case 5: Print "seventy one"
 -	Case 6: Print "seventy two"
--	Case 13: Print "seventy three"
+-	Case 13: Print "seventy three" 
 -	...
 -	Case 13: Print "seventy nine"
 -	Default: Print "Greater than 13"
